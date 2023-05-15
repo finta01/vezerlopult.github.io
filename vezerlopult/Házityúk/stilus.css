@@ -1,0 +1,50 @@
+body {
+    background-image: url("csibe.jpg");
+  }
+
+body{ 
+  width: 700px;
+  display: block;
+  margin: 0px auto;
+}
+
+h1{
+  width: 150px;
+  display:block;
+  margin: 0px auto;
+}
+
+.type1{
+  width: 150px;
+  display:block; 
+  transform: translate(-10%,-35%);  
+}
+
+.type2{
+  width: 200px;
+  display: block;
+  margin: -100px auto;
+  transform: translate(180%,-35%);
+}
+
+h2{
+  transform: translate(2%,150%);
+  
+}
+
+h3{
+  transform: translate(1%,80%)
+}
+
+ul{
+  transform: translate(0%,60%)
+}
+
+h4{ 
+  transform: translate(0%,60%)
+}
+
+h5{
+  transform: translate(93%,700%);
+}
+
